@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "783618912266",
+    "project_id": "piterrpen-89f66",
+    "storage_bucket": "piterrpen-89f66.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783618912266:android:5cf7f4ff168352afe56ff3",
+        "android_client_info": {
+          "package_name": "com.example.piterpen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpLOA1YxlVW1HwdfldKebphJjnP7Ad9iI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783618912266:android:13bdd1973bdab9f6e56ff3",
+        "android_client_info": {
+          "package_name": "com.example.piterrpen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpLOA1YxlVW1HwdfldKebphJjnP7Ad9iI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
